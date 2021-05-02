@@ -68,19 +68,19 @@ function determineSelectedParrot(el) {
             parrotify()
             break;
         case "Flipped":
-            basicParrotImage = "https://disconformity.net/partyparrotrightparrot";
+            basicParrotImage = "https://disconformity.net/partyparrot/rightparrot";
             parrotify()
             break;
         case "Middle":
-            basicParrotImage = "https://disconformity.net/partyparrotmiddleparrot";
+            basicParrotImage = "https://disconformity.net/partyparrot/middleparrot";
             parrotify()
             break;
         case "Conga":
-            basicParrotImage = "https://disconformity.net/partyparrotcongaparrot";
+            basicParrotImage = "https://disconformity.net/partyparrot/congaparrot";
             parrotify()
             break;
         case "Bored":
-            basicParrotImage = "https://disconformity.net/partyparrotboredparrot";
+            basicParrotImage = "https://disconformity.net/partyparrot/boredparrot";
             parrotify()
             break;
         default:
